@@ -40,7 +40,7 @@ jsonText.forEach(item => {
     assert.equal(
       req.status,
       code,
-      `\nRequest failed, current status_code: ${req.status} \nexpected status_code: ${code}\n`
+      `\nRequest failed with status_code: ${req.status} \nexpected status_code: ${code}\n`
     );
   }
   checkRequestStatusCode(item.request, item.code);

@@ -1,4 +1,4 @@
 https://learn.javascript.ru/fetch, 200
-https://hackernoon.com/archive-avatars/smkcdarby, 404
+https://hackernoon.com/archive-avatars/smkcdarby, 200
 https://www.afisha.ru/rests/api/search/suggest/?q=%D0%BF%D0%B8%D1%86%D1%86%D0%B0, 200
 https://smartreserve.ru/api/v2/slots?date=2020-02-25&restaurant_id=29554&count=2&partner_id=AFISHA, 200
